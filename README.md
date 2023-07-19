@@ -1,2 +1,2 @@
 # js-Project
-color changer project in Javascript
+color changer project in Javascript this priject is basic
